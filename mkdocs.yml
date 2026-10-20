@@ -1,0 +1,4 @@
+site_name: Dureach Whitepapers
+site_description: Dureach research whitepapers by Shawn Ham
+nav:
+  - Home: index.md
